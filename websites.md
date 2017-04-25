@@ -2,6 +2,7 @@
 layout: page
 title: Data Science Websites
 permalink: /websites/
+published: true
 ---
 
 This page lists my favorite online classes and websites for learning about Data Science and keeping up with the latest news and cutting-edge techniques.
