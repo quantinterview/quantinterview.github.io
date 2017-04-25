@@ -2,6 +2,7 @@
 layout: page
 title: Data Science Book Reviews
 permalink: /books/
+published: true
 ---
 
 In my quest to further my knowledge of Data Science, I have read several books. If you are considering buying any of these, this list may be of help! I have included a subjective ranking as to how complex the material in the book is so you can decide if a book is suited to your level of experience.
