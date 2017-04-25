@@ -22,4 +22,4 @@ $$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$$
 分数
 $$\frac{1}{3} 与 \cfrac{1}{3}$$
 
-太多了，请看下篇文章[Markdown中写数学公式](https://github.com/barryclark/jekyll-now)
+太多了，请看下篇文章[Markdown中写数学公式](http://jzqt.github.io/2015/06/30/Markdown%E4%B8%AD%E5%86%99%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/)
