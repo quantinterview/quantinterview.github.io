@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 数学公式
+published: true
 ---
 
 先写一个方程吧
