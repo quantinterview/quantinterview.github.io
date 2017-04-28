@@ -12,10 +12,10 @@ y_pred = final_gb.predict(testdmat) # Predict using our testdmat
 y_pred
 ```
 
-
+下面是显示行号的代码
 
 {% highlight python linenos %}
-from sklearn.metrics import accuracy_score
-y_pred = final_gb.predict(testdmat) # Predict using our testdmat
-y_pred
+ from sklearn.metrics import accuracy_score
+ y_pred = final_gb.predict(testdmat) # Predict using our testdmat
+ y_pred
 {% endhighlight %}
