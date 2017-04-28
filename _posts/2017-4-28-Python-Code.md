@@ -32,7 +32,8 @@ code snippet
 '''
 
 示例如下
-{% codeblock [python] [一小段python代码] [linenos:true] %}
+
+{% codeblock [lang:python] [一小段python代码] [linenos:true] %}
 
 our_params = {'eta': 0.1, 'seed':0, 'subsample': 0.8, 'colsample_bytree': 0.8, 
              'objective': 'binary:logistic', 'max_depth':3, 'min_child_weight':1} 
