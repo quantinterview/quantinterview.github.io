@@ -1,11 +1,11 @@
 ---
 layout: post
-title: python ´úÂë
+title: python ä»£ç 
 published: true
 ---
 
 
-²âÊÔÒ»ÏÂÄÜ¹»ÏÔÊ¾python´úÂë
+æµ‹è¯•ä¸€ä¸‹èƒ½å¤Ÿæ˜¾ç¤ºpythonä»£ç 
 
 ```python
 from sklearn.metrics import accuracy_score
@@ -13,16 +13,16 @@ y_pred = final_gb.predict(testdmat) # Predict using our testdmat
 y_pred
 ```
 
-Ò»°ãÀ´Ëµ£¬Èç¹ûĞĞÄÚ´úÂë£¬Ö»ĞèÒª'´úÂë'
+ä¸€èˆ¬æ¥è¯´ï¼Œå¦‚æœè¡Œå†…ä»£ç ï¼Œåªéœ€è¦'ä»£ç '
 
-Èç¹ûÊÇ³É¶ÎµÄ´úÂë£¬Ö»ĞèÒª
+å¦‚æœæ˜¯æˆæ®µçš„ä»£ç ï¼Œåªéœ€è¦
 '''
-´úÂë
+ä»£ç 
 '''
 
-»òÕßÔÚ´úÂëÇ°Ãæ¼ÓËÄ¸ö¿Õ¸ñ»ò1¸öTAB
+æˆ–è€…åœ¨ä»£ç å‰é¢åŠ å››ä¸ªç©ºæ ¼æˆ–1ä¸ªTAB
 
-Èç¹ûÒªÏÔÊ¾ĞĞºÅ£¬ÒªÓÃÏÂÃæµÄÓï·¨
+å¦‚æœè¦æ˜¾ç¤ºè¡Œå·ï¼Œè¦ç”¨ä¸‹é¢çš„è¯­æ³•
 '''
 {% codeblock [lang:language] [title] [url] [link text] [start:#] [mark:#,#-#] [linenos:false] %}
 
@@ -31,8 +31,8 @@ code snippet
 {% endcodeblock %}
 '''
 
-Ê¾ÀıÈçÏÂ
-{% codeblock [lang:python] [Ò»Ğ¡¶Îpython´úÂë] [url] [link text] [start:#] [mark:#,#-#] [linenos:true] %}
+ç¤ºä¾‹å¦‚ä¸‹
+{% codeblock [python] [ä¸€å°æ®µpythonä»£ç ] [linenos:true] %}
 
 our_params = {'eta': 0.1, 'seed':0, 'subsample': 0.8, 'colsample_bytree': 0.8, 
              'objective': 'binary:logistic', 'max_depth':3, 'min_child_weight':1} 
