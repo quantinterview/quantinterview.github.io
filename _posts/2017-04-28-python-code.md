@@ -1,13 +1,10 @@
 ---
-published: false
----
----
 layout: post
 title: python 代码
 ---
 
 
-#测试一下能够显示python代码
+测试一下能够显示python代码
 
 ```python
 from sklearn.metrics import accuracy_score
