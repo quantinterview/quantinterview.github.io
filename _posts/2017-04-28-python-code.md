@@ -11,3 +11,11 @@ from sklearn.metrics import accuracy_score
 y_pred = final_gb.predict(testdmat) # Predict using our testdmat
 y_pred
 ```
+
+
+
+{% highlight python linenos %}
+from sklearn.metrics import accuracy_score
+y_pred = final_gb.predict(testdmat) # Predict using our testdmat
+y_pred
+{% endhighlight %}
