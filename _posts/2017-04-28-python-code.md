@@ -19,3 +19,6 @@ y_pred
  y_pred = final_gb.predict(testdmat) # Predict using our testdmat
  y_pred
 {% endhighlight %}
+
+参考文献
+http://jekyllcn.com/docs/templates/
