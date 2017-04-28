@@ -11,10 +11,4 @@ from sklearn.metrics import accuracy_score
 y_pred = final_gb.predict(testdmat) # Predict using our testdmat
 y_pred
 ```
-
-一般来说，如果行内代码，只需要'代码'
-
-如果是成段的代码，只需要
-'''
-代码
-'''
+测试是否可以显示行号
