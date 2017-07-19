@@ -3,7 +3,7 @@ layout: post
 title: How to Get a Quant Job
 ---
 
-Maybe some intro.
+In this post, I share resources and practical tips about how to get a quant job.
 
 ## Preparation
 
@@ -55,6 +55,6 @@ In this blog, I will constantly post some most commonly asked interview question
 
 It usually take several rounds of phone interviews and one on-site interview to get an offer.
 
-Good luck!
+The more interviews your get, the stronger your become as a candidate. Persistence is key. Good luck!
 
  
