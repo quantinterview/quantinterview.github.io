@@ -28,7 +28,7 @@ Some exposure to [machine learning](https://en.wikipedia.org/wiki/Machine_learni
 
 Most firms in the quant space accept online applications, a great place to start is this [quant firm list](https://www.quantnet.com/threads/quant-internship-and-graduate-recruitment-a-firms-list.10000/). 
 
-Maybe some pics of company logo.
+![](/images/investmentbank.GIF)
 
 Apply early. Big investment banks typically have their own recruiting cycles, so don't miss their deadlines.
 
