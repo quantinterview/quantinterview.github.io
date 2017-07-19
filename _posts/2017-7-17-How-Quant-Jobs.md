@@ -7,6 +7,8 @@ In this post, I share resources and practical tips about how to get a quant job.
 
 ## Preparation
 
+![](/images/mathFinance.JPG)
+
 Be prepared. Generally, a quant recruiter is looking for a candidate who knows:
 
 - Math
