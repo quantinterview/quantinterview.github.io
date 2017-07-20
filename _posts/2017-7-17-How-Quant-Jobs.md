@@ -8,6 +8,7 @@ In this post, I share resources and practical tips about how to get a quant job.
 ## Preparation
 
 ![](/images/mathFinance.JPG)
+[Source](http://www.quantuniversity.com/)
 
 Be prepared. Generally, a quant recruiter is looking for a candidate who knows:
 
@@ -29,6 +30,7 @@ Some exposure to [machine learning](https://en.wikipedia.org/wiki/Machine_learni
 Most firms in the quant space accept online applications, a great place to start is this [quant firm list](https://www.quantnet.com/threads/quant-internship-and-graduate-recruitment-a-firms-list.10000/). 
 
 ![](/images/investmentbank.GIF)
+[Source](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
 
 Apply early. Big investment banks typically have their own recruiting cycles, so don't miss their deadlines.
 
