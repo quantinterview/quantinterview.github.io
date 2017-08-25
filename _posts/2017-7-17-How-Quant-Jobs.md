@@ -11,7 +11,7 @@ In this post, I share resources and practical tips about how to get a quant job.
 
 [Source](http://www.quantuniversity.com/)
 
-Be prepared. Generally, a quant recruiter is looking for a candidate who knows:
+Generally, a quant recruiter is looking for a candidate who knows:
 
 - Math
 - Stats (Machine Learning)
