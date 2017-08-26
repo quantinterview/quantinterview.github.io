@@ -15,6 +15,6 @@ Let \\(X\\) be the number of tosses until we get two heads in a row, then $$\mat
 
 \\( a \ne 0 \\)
 
-![](/images/two_steps_tree.png)
+![](/images/two_steps_tree.png?raw=true)
 
-![](/images/two_steps_transition.png)
+![](/images/two_steps_transition.png?raw=true)
