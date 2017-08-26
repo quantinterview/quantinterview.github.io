@@ -17,6 +17,8 @@ $$\mathbb{E}\left[X\right] = \frac{1}{2}\left(1+\mathbb{E}\left[X\right]\right)+
 
 \\( a \ne 0 \\)
 
-![](/images/two_steps_tree.png?raw=true)
+![two_steps_tree](/images/two_steps_tree.png?raw=true)
+
+See figure \ref{two_steps_tree}.
 
 ![](/images/two_steps_transition.png?raw=true)
