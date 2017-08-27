@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the expected number of coin flips until you get two heads in a row?
+title: Expected Number of Coin Flips until Two Heads in a Row
 ---
 
 ## Example
