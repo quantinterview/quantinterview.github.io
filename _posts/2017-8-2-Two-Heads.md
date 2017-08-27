@@ -11,7 +11,7 @@ I'll show three ways of solving this problem.
 
 ## Method I: Recursive expectation in two steps
 
-Let \\(X\\) be the number of tosses until we get two heads in a row, then 
+Let \\(X\\) be the number of tosses until we get two heads in a row, then we can solve \\( \mathbb{E}\left[X\right] \\) as follows:
 
 $$ \begin{align}
 & \mathbb{E}\left[X\right] = \frac{1}{2}\cdot \mathbb{E}\left[X\vert T\right]+\frac{1}{4}\cdot \mathbb{E}\left[X\vert HT\right]+\frac{1}{4}\cdot \mathbb{E}\left[X\vert HH\right] \\
