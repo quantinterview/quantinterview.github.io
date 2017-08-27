@@ -22,5 +22,5 @@ $$ \begin{align}
 This recursive relation can be better explained by the probabilistic tree below:
 ![](/images/two_steps_tree.png?raw=true)
 
-For those who know Markov chains, we can also draw a state transition diagram as follows:
+For those who know [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can also draw a state transition diagram as follows:
 ![](/images/two_steps_transition.png?raw=true)
