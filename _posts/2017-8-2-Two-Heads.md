@@ -14,7 +14,7 @@ I'll show three ways of solving this problem.
 Let \\(X\\) be the number of tosses until we get two heads in a row, then 
 
 \begin{align}
-& \mathbb{E}\left[X\right] = \frac{1}{2}\left(1+\mathbb{E}\left[X\right]\right)+\frac{1}{4}\left(2+\mathbb{E}\left[X\right]\right)+\frac{1}{4}\cdot 2 \\
+& \mathbb{E}\left[X\right] = \frac{1}{2}\left(1+\mathbb{E}\left[X\right]\right)+\frac{1}{4}\left(2+\mathbb{E}\left[X\right]\right)+\frac{1}{4}\cdot 2 \\\\
 & \Rightarrow \mathbb{E}\left[X\right]=6.
 \end{aligh}
 
