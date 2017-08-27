@@ -19,7 +19,7 @@ $$ \begin{align}
 \Rightarrow & \mathbb{E}\left[X\right]=6.
 \end{align} $$
 
-This recursive relation can be better explained by the probabilistic tree:
+This recursive relation can be better explained by the probabilistic tree below:
 ![](/images/two_steps_tree.png?raw=true)
 
 For those who know Markov chains, we can also draw a state transition diagram as follows:
