@@ -9,7 +9,7 @@ Suppose we toss a fair coin, what is the expected number of tosses until we get 
 
 I'll show three ways of solving this problem.
 
-## Method I: Recursive expectation in two steps
+## Method I: Recursive Expectation in Two Steps
 
 Let \\(X\\) be the number of tosses until we get two heads in a row, then we can solve \\( \mathbb{E}\left[X\right] \\) as follows:
 
@@ -19,8 +19,8 @@ $$ \begin{align}
 \Rightarrow & \mathbb{E}\left[X\right]=6.
 \end{align} $$
 
-\\( a \ne 0 \\)
-
+This recursive relation can be better explained by the probabilistic tree:
 ![](/images/two_steps_tree.png?raw=true)
 
+For those who know Markov chains, we can also draw a state transition diagram as follows:
 ![](/images/two_steps_transition.png?raw=true)
