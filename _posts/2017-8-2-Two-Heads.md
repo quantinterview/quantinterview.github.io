@@ -24,3 +24,7 @@ This recursive relation can be better explained by the probabilistic tree below:
 
 For those who know [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can also draw a state transition diagram as follows:
 ![](/images/two_steps_transition.png?raw=true)
+
+## Method II: Recursive Expectation in One Step
+
+![](/images/one_step_tree.png?raw=true)
