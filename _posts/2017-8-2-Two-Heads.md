@@ -27,4 +27,12 @@ For those who know [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), 
 
 ## Method II: Recursive Expectation in One Step
 
+$$ \left\{
+\begin{array}
+[c]{c}
+X_{0-}=x>0, \\
+Y_{0-}=y\geq0.
+\end{array}
+\right. $$
+
 ![](/images/one_step_tree.png?raw=true)
