@@ -35,7 +35,8 @@ $$ \begin{align}
 \mathbb{E}\left[X\vert H\right] = \frac{1}{2}\cdot 2 + \frac{1}{2}\cdot \left(2+\mathbb{E}\left[X\right]\right)
 \end{array}
 \right. \\
-\Rightarrow & \begin{array}
+\Rightarrow & \left\{
+\begin{array}
 [c]{l}
 \mathbb{E}\left[X\right] = 6 \\
 \mathbb{E}\left[X\vert H\right] = 4
