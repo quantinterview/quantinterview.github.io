@@ -27,12 +27,15 @@ For those who know [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), 
 
 ## Method II: Recursive Expectation in One Step
 
-$$ \left\{
+$$ \begin{align}
+& \left\{
 \begin{array}
 [c]{l}
 \mathbb{E}\left[X\right] = \frac{1}{2} \cdot \mathbb{E}\left[X\vert H\right] + \frac{1}{2}\cdot \left(1+\mathbb{E}\left[X\right]\right) \\
 \mathbb{E}\left[X\vert H\right] = \frac{1}{2}\cdot 2 + \frac{1}{2}\cdot \left(2+\mathbb{E}\left[X\right]\right)
 \end{array}
-\right. $$
+\right. \\
+\Rightarrow &
+\end{align} $$
 
 ![](/images/one_step_tree.png?raw=true)
