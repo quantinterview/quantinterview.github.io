@@ -48,14 +48,23 @@ $$ \begin{align}
 
 ## Method III: Martingale Approach
 
+We introduce a random process \\( X_n \\) be a random process to represent the coin toss process, that is,
+
 $$ \begin{equation}
 X_n = \left\{
 \begin{array}{cl}
-1, & \text{if the nth coin toss is head} \\
--1, & \text{if the nth coin toss is tail}
+1, & \text{if the nth coin toss is head}, \\
+-1, & \text{if the nth coin toss is tail}.
 \end{array}
 \right.
 \end{equation} $$
+
+Note that \\( X_n \\) is a [martingale](). And we use another random process \\( Y_n \\) to represent our trading strategy,
+
+$$ \begin{align}
+Y_1 & = 1, \\
+Y_n & = 2\cdot 1_{\{X_{n-1}=1\}} + 1_{\{X_{n=1}=-1\}}, n\geq 2
+\end{align} $$
 
 
 
