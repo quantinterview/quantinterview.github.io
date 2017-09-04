@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expected Number of Coin Flips until Two Heads in a Row
+title: Recursive Expectations: Expected Number of Coin Flips until Two Heads in a Row
 ---
 
 ## Example
