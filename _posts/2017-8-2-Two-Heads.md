@@ -84,7 +84,7 @@ Now, we define a [stopping time](https://en.wikipedia.org/wiki/Stopping_time) \\
 Finally, we invoke the [optinal sampling theorem](https://en.wikipedia.org/wiki/Optional_stopping_theorem) to get
 
 $$ \begin{align}
-0 = \mathbb{E}\left[Z_{\tau}\right] & = 4\cdot 1_{\{X_{\tau}=1,X_{\tau-1}=1\}}+2\cdot 1_{\{X_{\tau=1}\}} - \mathbb{E}\left[\tau\right] \\
+0 = \mathbb{E}\left[Z_{\tau}\right] & = 4\cdot 1_{\{X_{\tau}=1,X_{\tau-1}=1\}}+2\cdot 1_{\{X_{\tau}=1\}} - \mathbb{E}\left[\tau\right] \\
 & = 4 + 2 - \mathbb{E}\left[\tau\right] \\
 & \Rightarrow \mathbb{E}\left[\tau\right] = 6.
 \end{align}$$
