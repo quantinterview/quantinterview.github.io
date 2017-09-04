@@ -45,3 +45,21 @@ $$ \begin{align}
 \end{align} $$
 
 ![](/images/one_step_tree.png?raw=true)
+
+## Method III: Martingale Approach
+
+$$ \begin{equation}
+X_n = \left\{
+\begin{array}{c}
+1 \\
+-1
+\end{array}
+\right.
+\end{equation} $$
+
+
+
+
+
+
+
