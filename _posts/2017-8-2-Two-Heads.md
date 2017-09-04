@@ -59,13 +59,16 @@ X_n = \left\{
 \right.
 \end{equation} $$
 
-Note that \\( X_n \\) is a [martingale](). And we use another random process \\( Y_n \\) to represent our trading strategy,
+Note that \\( X_n \\) is a [martingale](https://en.wikipedia.org/wiki/Martingale_(probability_theory)). And we use another random process \\( Y_n \\) to represent our trading strategy,
 
 $$ \begin{align}
 Y_1 & = 1, \\
-Y_n & = 2\cdot 1_{\{X_{n-1}=1\}} + 1_{\{X_{n=1}=-1\}}, n\geq 2
+Y_n & = 2\cdot 1_{\{X_{n-1}=1\}} + 1_{\{X_{n=1}=-1\}}, n\geq 2.
 \end{align} $$
 
+This means that we start our first bet with \\(\$1\\), then we double our bet to \\(\$2\\) if the previous coit toss turns out to be head and still bet \\(\$1\\) otherwise.
+
+Consequently, out wealth process \\(Z_n\\)
 
 
 
