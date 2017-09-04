@@ -27,7 +27,7 @@ For those who know [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), 
 
 ## Method II: Recursive Expectation in One Step
 
-This mehod is almost the same as Method I, expect that we use the recursive relations of expections to write down a system of equations to solve:
+This mehod is almost the same as Method I, except that we use the recursive relations of expections to write down a system of equations to solve:
 
 $$ \begin{align}
 & \left\{
