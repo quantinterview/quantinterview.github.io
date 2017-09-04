@@ -77,7 +77,9 @@ Z_n & = \sum_{i=2}^n 4\cdot 1_{\{X_i=1,X_{i-1}=1\}} + 2\cdot 1_{\{X_n=1\}} - n, 
 
 Indeed, \\(Z_n\\) is a discrete-time [stochastic integral](https://en.wikipedia.org/wiki/It%C3%B4_calculus) with respect to \\(X_n\\), and therefore, \\(Z_n\\) is also a martingale.
 
-Now, we define a [stopping time](https://en.wikipedia.org/wiki/Stopping_time) \\(\tau = \min\{n\geq 2: X_n = 1, X_{n-1}=1\}\\). The [optinal sampling theorem](https://en.wikipedia.org/wiki/Optional_stopping_theorem) would give us
+Now, we define a [stopping time](https://en.wikipedia.org/wiki/Stopping_time) \\(\tau = \min\\{n\geq 2: X_n = 1, X_{n-1}=1\\}\\). The definition of \\(\tau\\) would imply that \\(X_1=\cdots=X_{\tau-2}=0,X_{\tau-1}=X_{\tau}=1\\).
+
+Finally, we invoke [optinal sampling theorem](https://en.wikipedia.org/wiki/Optional_stopping_theorem) to get
 
 $$ \begin{align}
 0 = \mathbb{E}\left[Z_{\tau}\right] & = 4\cdot 1_{X_{\tau}=1,X_{\tau-1}=1}+2\cdot 1_{X_{\tau=1}} - \mathbb{E}\left[\tau\right] \\
