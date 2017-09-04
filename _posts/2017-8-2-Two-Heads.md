@@ -11,7 +11,7 @@ I'll show three ways of solving this problem.
 
 ## Method I: Recursive Expectation in Two Steps
 
-Let \\(X\\) be the number of tosses until we get two heads in a row, then we can solve \\( \mathbb{E}\left[X\right] \\) as follows:
+Let \\(X\\) be the number of tosses until we get two heads in a row, then we use the recursive relations of expectations to write down an equation of \\( \mathbb{E}\left[X\right] \\) as follows:
 
 $$ \begin{align}
 & \mathbb{E}\left[X\right] = \frac{1}{2}\cdot \mathbb{E}\left[X\vert T\right]+\frac{1}{4}\cdot \mathbb{E}\left[X\vert HT\right]+\frac{1}{4}\cdot \mathbb{E}\left[X\vert HH\right] \\
@@ -26,6 +26,8 @@ For those who know [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), 
 ![](/images/two_steps_transition.png?raw=true)
 
 ## Method II: Recursive Expectation in One Step
+
+This mehod is almost the same as Method I, expect that we use the recursive relations of expections to write down a system of equations to solve:
 
 $$ \begin{align}
 & \left\{
