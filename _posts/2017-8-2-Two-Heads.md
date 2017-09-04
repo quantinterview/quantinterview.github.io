@@ -51,8 +51,8 @@ $$ \begin{align}
 $$ \begin{equation}
 X_n = \left\{
 \begin{array}{c}
-1 \\
--1
+1, \text{if the nth coin toss is head} \\
+-1, \text{if the nth coin toss is tail}
 \end{array}
 \right.
 \end{equation} $$
