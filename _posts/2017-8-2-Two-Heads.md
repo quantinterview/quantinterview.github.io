@@ -79,12 +79,12 @@ Indeed, \\(Z_n\\) is a discrete-time [stochastic integral](https://en.wikipedia.
 
 Now, we define a [stopping time](https://en.wikipedia.org/wiki/Stopping_time) \\(\tau = \min\\{n\geq 2: X_n = 1, X_{n-1}=1\\}\\). The definition of \\(\tau\\) would imply that \\(X_1=\cdots=X_{\tau-2}=0,X_{\tau-1}=X_{\tau}=1\\).
 
-Finally, we invoke [optinal sampling theorem](https://en.wikipedia.org/wiki/Optional_stopping_theorem) to get
+Finally, we invoke the [optinal sampling theorem](https://en.wikipedia.org/wiki/Optional_stopping_theorem) to get
 
 $$ \begin{align}
 0 = \mathbb{E}\left[Z_{\tau}\right] & = 4\cdot 1_{X_{\tau}=1,X_{\tau-1}=1}+2\cdot 1_{X_{\tau=1}} - \mathbb{E}\left[\tau\right] \\
 & = 4 + 2 - \mathbb{E}\left[\tau\right] \\
-\Rightarrow & \mathbb{E}\left[\tau\right] = 6.
+& \Rightarrow \mathbb{E}\left[\tau\right] = 6.
 \end{align}$$
 
 
