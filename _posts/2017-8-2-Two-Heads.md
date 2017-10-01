@@ -48,6 +48,8 @@ $$ \begin{align}
 
 ![](/images/one_step_tree.png?raw=true)
 
+As you see more examples in my next post, it is more common to formulate a system of equation, rather than a single equation, for the problem of recursive expectations.
+
 ## Method III: Martingale Approach (Optional)
 
 We introduce a random process \\( X_n,n\geq 1 \\) be a random process to represent the coin toss process, that is,
