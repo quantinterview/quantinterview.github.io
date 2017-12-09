@@ -3,7 +3,7 @@ layout: post
 title: Recursive Expectations Part 1 - Expected Number of Coin Flips until Two Heads in a Row
 ---
 
-## Example
+## Problem
 
 Suppose we toss a fair coin, what is the expected number of tosses until we get two heads in a row?
 
