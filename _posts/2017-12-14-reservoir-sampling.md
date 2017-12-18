@@ -3,8 +3,6 @@ layout: post
 title: Reservoir Sampling
 ---
 
-some random code, to be replaced
-
 ``` python
 import random
 def sample(iterable, n)
