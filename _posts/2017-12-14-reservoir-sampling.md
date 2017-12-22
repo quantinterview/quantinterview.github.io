@@ -19,3 +19,9 @@ for t, item in enumerate(iterable):
       reservoir[m] = item
 return reservoir
 ```
+
+## Proof Idea:
+
+The key observation is that at the \\(i\\)th iteration (\\(i=n+1,n+2,\cdots,N\\)), each item has probability \\(n/i\\) of being in the reservoir.
+
+Then, we can use **induction** to prove that in the end, each item has probability \\(n/i\\) of being in the reservoir.
