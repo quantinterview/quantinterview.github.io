@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to generate random points uniformly on a circle of radius \\(R\\)?
+title: How to generate random points uniformly on a circle of radius R?
 ---
 
 ## Polar Coordinates
