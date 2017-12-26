@@ -14,9 +14,9 @@ Recall that, in polar coordinates, the infinitesimal area is \\(rdrd\theta\\).
 Then, the pdf of \\(r\\) should be proportional to \\(r\\). Actually, it is \\(f(r)=\frac{2}{R^2}r\\) due to normailization.
 
 Now, we can use the inverse cdf to generate \\(r\\):
-$$
+$$ \begin{equation}
 r = R * \text{sqrt}( \text{rand()} )
-$$
+\end{equation} $$
 where \\(\text{rand()}\\) is a uniformly distributed random number in \\([0,1]\\).
 
 ![](/images/random_point_on_circle.png?raw=true)
