@@ -5,9 +5,19 @@ title: How to generate random points uniformly on a circle?
 
 ## Polar Coordinates
 
-**Key intuition**: for a certain angle interval \\([\Theta, \Theta+d\theta]\\), there needs to be more points generated further out (at large \\(r\\)) than close to zero.
+Using polar coordinates, we present both a naive (wrong) way and the correct way of solving this problem.
 
-In polar coordinates, the infinitesimal area is \\(rdrd\theta\\).
+**Key intuition**: for a certain angle interval \\([\theta, \theta+d\theta]\\), there needs to be more points generated further out (at large \\(r\\)) than close to zero.
+
+Recall that, in polar coordinates, the infinitesimal area is \\(rdrd\theta\\).
+
+Then, the pdf of \\(r\\) should be proportional to \\(r\\). Actually, it is \\(f(r)=\frac{2}{R^2}r\\) due to normailization.
+
+Now, we can use the inverse cdf to generate \\(r\\):
+$$
+r = R * \text{sqrt}( \text{rand()} )
+$$
+where \\(\text{rand()}\\) is a uniformly distributed random number in \\([0,1]\\).
 
 ![](/images/random_point_on_circle.png?raw=true)
 
