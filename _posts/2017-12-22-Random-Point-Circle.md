@@ -5,9 +5,9 @@ title: How to generate random points uniformly on a circle of radius R?
 
 ## Polar Coordinates
 
-![](/images/PolarCoordinates_1000.gif?raw=true)
+![](/images/polar_coordinates.png?raw=true)
 
-[Source](http://mathworld.wolfram.com/PolarCoordinates.html)
+[Source](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-angular-movement/a/polar-coordinates)
 
 **A naive first thought:** Oh, we might just generate a uniform random radius \\(r\in [0,R]\\) and a uniform random angle \\(\theta\in [0,2\pi]\\), and we are basically done?
 
