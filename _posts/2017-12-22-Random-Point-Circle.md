@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to generate random points uniformly on a circle?
+title: How to generate random points uniformly on a circle of radius \\(R\\)?
 ---
 
 ## Polar Coordinates
 
-Using polar coordinates, we present both a naive (wrong) way and the correct way of solving this problem.
+**A naive first thought:** Oh, we might just generate a uniform random radius \\(r\in [0,R]\\) and a uniform random angle \\(\theta\in [0,2\pi]\\), and we are basically done?
 
 **Key intuition**: for a certain angle interval \\([\theta, \theta+d\theta]\\), there needs to be more points generated further out (at large \\(r\\)) than close to zero.
 
