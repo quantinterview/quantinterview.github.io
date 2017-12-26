@@ -3,6 +3,12 @@ layout: post
 title: How to generate random points uniformly on a circle?
 ---
 
+## Polar Coordinates
+
+**Key intuition**: for a certain angle interval \\([\Theta, \Theta+d\theta]\\), there needs to be more points generated further out (at large \\(r\\)) than close to zero.
+
+In polar coordinates, the infinitesimal area is \\(rdrd\theta\\).
+
 ![](/images/random_point_on_circle.png?raw=true)
 
 {% highlight python linenos %}
