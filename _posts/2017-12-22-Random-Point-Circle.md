@@ -3,13 +3,19 @@ layout: post
 title: How to generate random points uniformly on a circle of radius R?
 ---
 
-## Polar Coordinates
+## Method I: Polar Coordinates
 
 ![](/images/polar_coordinates.png?raw=true)
 
 [Source](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-angular-movement/a/polar-coordinates)
 
 **A naive first thought:** Oh, we might just generate a uniform random radius \\(r\in [0,R]\\) and a uniform random angle \\(\theta\in [0,2\pi]\\), and we are basically done?
+
+However, if we simulate using this naive method, we will see that points clustered around the center of the circle, as shown in the left picture below:
+
+![](/images/random_point_on_circle.png?raw=true)
+
+Something must be wrong?
 
 **Key intuition**: for a certain angle interval \\([\theta, \theta+d\theta]\\), there needs to be more points generated further out (at large \\(r\\)) than close to zero.
 
@@ -24,8 +30,6 @@ r = R * \text{sqrt}( \text{rand()} )
 \end{equation} $$
 
 where \\(\text{rand()}\\) is a uniformly distributed random number in \\([0,1]\\).
-
-![](/images/random_point_on_circle.png?raw=true)
 
 {% highlight python linenos %}
   import numpy as np
@@ -71,3 +75,5 @@ where \\(\text{rand()}\\) is a uniformly distributed random number in \\([0,1]\\
 
   plt.savefig("random_point_on_circle", bbox_inches='tight')
 {% endhighlight %}
+
+## Method II: Limit Of Shrinking Triangles
