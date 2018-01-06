@@ -76,6 +76,31 @@ where \\(\text{rand()}\\) is a uniformly distributed random number in \\([0,1]\\
   plt.savefig("random_point_on_circle", bbox_inches='tight')
 {% endhighlight %}
 
-## Method II: Limit Of Shrinking Triangles
+## Method II: Limit Of Shrinking Triangles （Optional）
+
+Think of the circle consisting of an infinite amount of infinitesimal sectors, which is shown below in solid lines. To generate uniform random points in such a sector, we can first generate random points in the parallelogram containing the sector, then fold back those points that fall into the outside triangle as shown below in dotted lines.
 
 ![](/images/limiting_triangles.png?raw=true)
+
+{% highlight python linenos %}
+  # setup
+  Nmax = 1000
+  R = 5
+
+  # simulating limiting triangles
+  theta2 = 2 * np.pi * np.random.rand(Nmax, 1)
+  r2 = R * np.random.rand(Nmax, 1) + R * np.random.rand(Nmax, 1)
+  r2[r2>R] = 2*R - r2[r2>R] # if r2>R then r2 = 2*R - r2 else r2 = r2
+  x2 = r2 * np.cos(theta2)
+  y2 = r2 * np.sin(theta2)
+
+  # plot
+  plt.figure()
+  plt.plot(x2,y2,'g.')
+  plt.xlim((-1.1*R,1.1*R))
+  plt.ylim((-1.1*R,1.1*R))
+  plt.title('Right')
+  plt.axis('square')
+
+  plt.show()
+{% endhighlight %}
