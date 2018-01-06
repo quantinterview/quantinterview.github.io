@@ -15,7 +15,7 @@ However, if we simulate using this naive method, we will see that points cluster
 
 ![](/images/random_point_on_circle.png?raw=true)
 
-Something must be wrong?
+Something must be wrong.
 
 **Key intuition**: for a certain angle interval \\([\theta, \theta+d\theta]\\), there needs to be more points generated further out (at large \\(r\\)) than close to zero.
 
@@ -77,3 +77,5 @@ where \\(\text{rand()}\\) is a uniformly distributed random number in \\([0,1]\\
 {% endhighlight %}
 
 ## Method II: Limit Of Shrinking Triangles
+
+![](/images/limiting_triangles.png?raw=true)
