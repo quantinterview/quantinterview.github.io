@@ -3,7 +3,7 @@ layout: post
 title: How to Get a Quant Job
 ---
 
-In this post, I share resources and practical tips about how to get a quant job.
+In this post, I will share some resources and practical tips about how to get a quant job.
 
 ## Preparation
 
@@ -11,7 +11,7 @@ In this post, I share resources and practical tips about how to get a quant job.
 
 [Source](http://www.quantuniversity.com/)
 
-Generally, a quant recruiter is looking for a candidate who knows:
+Generally, a quant needs to know:
 
 - Math
 - Stats (Machine Learning)
@@ -24,7 +24,7 @@ It is hard to be an expert in all four areas. Ideally, a candidate is strong in 
 
 For those [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) majors, it is worthwhile spending some time learning about finance. A good choice is to study the [CFA Program](https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx). If you can pass at least its [Level I Exam](https://www.cfainstitute.org/programs/cfaprogram/exams/Pages/level_I_exam_prep.aspx), you should already have a basic yet comprehensive knowledge of finance.
 
-Some exposure to [machine learning](https://en.wikipedia.org/wiki/Machine_learning) would make a more favorable candidate. If you want to get your foot into the door, consider taking a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) course like [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning). To get some hands-on experience of machine learning, take a look at [Kaggle](https://www.kaggle.com/), an excellent [data science](https://en.wikipedia.org/wiki/Data_science) competition platform.
+Some exposure to [machine learning](https://en.wikipedia.org/wiki/Machine_learning) would also be helpful in this big data era. If you want to get your foot into the door, consider taking a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) course like [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning). To get some hands-on experience of machine learning, take a look at [Kaggle](https://www.kaggle.com/), an excellent [data science](https://en.wikipedia.org/wiki/Data_science) competition platform.
 
 ## Application
 
@@ -38,11 +38,11 @@ Apply early. Big investment banks typically have their own recruiting cycles, so
 
 ### Resume
 
-Learn from others. [Princeton MFin students' resume book](http://bcf.princeton.edu/master-in-finance/mfin-directory/) have many good examples.
+Learn from good examples: [Princeton MFin students' resume book](http://bcf.princeton.edu/master-in-finance/mfin-directory/).
 
 ### Cover Letter
 
-Not many firms ask for a cover letter. My cover letter simply expand my resume, and elaborate on my past experience on math, stats (machine learning), programming and finance.
+Not many firms ask for a cover letter. My cover letter simply expands my resume, and elaborates on my past experience on math, stats (machine learning), programming and finance.
 
 ## Interview
 
