@@ -3,6 +3,12 @@ layout: post
 title: Reservoir Sampling
 ---
 
+How to randomly and uniformly smaple k items out of a population (of an unknow size)?
+
+Imagine a scenario: a gate keeper of a part stands at the entrance of the park, and this keeper will give away k free tickets to customers during this day. The keeper wants each customer coming today have an equal chance of getting a free ticket, yet this keeper doesn't know how many customer would come this day. This is exactly the practical sampling problem we are trying to solve. 
+
+Indeed, it is not easy to come up with such a [randomized algorithm](https://en.wikipedia.org/wiki/Randomized_algorithm). Let's go to see the algorithm first and then try to figure out how it works.
+
 ``` python
 import random
 def sample(iterable, n)
