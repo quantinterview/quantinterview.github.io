@@ -28,8 +28,10 @@ return reservoir
 
 ## Proof Idea:
 
-Suppose there are \\(N\\) items in total.
+Suppose there are \\(N\\) items in total (Remember we don't know \\(N\\) a priori).
 
-The key observation is that at the \\(i\\)th iteration (\\(i=n+1,n+2,\cdots,N\\)), each item has probability \\(n/i\\) of being in the reservoir.
+If \\(k\leq N\\), each of k items will be selected in the reservoir for sure. The more interesting case is when \\(k\geq N\\).
 
-Then, we can use **induction** to prove that in the end, each item has probability \\(n/N\\) of being in the reservoir.
+The **key observation** is that: at the \\(i\\)th iteration (\\(i=n+1,n+2,\cdots,N\\)) of the algorithm, each item has probability \\(n/i\\) of being in the reservoir.
+
+Then, we can use **induction** to prove that in the end, each item has probability \\(n/N\\) of being in the reservoir. The details of the inductive proof are left to the readers.
