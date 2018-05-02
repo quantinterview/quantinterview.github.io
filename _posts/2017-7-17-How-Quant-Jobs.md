@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get a Quant Job? // 如何找到一份金融宽客的工作？
+title: How to Get a Financial Quant Job? // 如何找到一份金融宽客的工作？
 ---
 
 In this post, I will share some resources and practical tips about how to get a quant job.
