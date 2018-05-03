@@ -9,7 +9,7 @@ In this post, I will share some resources and practical tips about how to get a 
 
 ![](/images/mathFinance.JPG)
 
-[Source](http://www.quantuniversity.com/)
+[图片来源](http://www.quantuniversity.com/)
 
 Generally, a quant needs to know:
 
@@ -34,7 +34,7 @@ Most firms in the quant space accept online applications, a great place to start
 
 ![](/images/investmentbank.GIF)
 
-[Source](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
+[图片来源](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
 
 Apply early. Big investment banks typically have their own recruiting cycles, so don't miss their deadlines.
 
@@ -73,7 +73,7 @@ The more interviews your get, the stronger your become as a candidate. Persisten
 
 ![](/images/mathFinance.JPG)
 
-[Source](http://www.quantuniversity.com/)
+[图片来源](http://www.quantuniversity.com/)
 
 总体来说，一个宽客需要了解的知识包括:
 
@@ -98,7 +98,7 @@ The more interviews your get, the stronger your become as a candidate. Persisten
 
 ![](/images/investmentbank.GIF)
 
-[Source](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
+[图片来源](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
 
 趁早申请。大的投行通常都有各自的招聘季，所以别错过它们的神情截止日期。
 
