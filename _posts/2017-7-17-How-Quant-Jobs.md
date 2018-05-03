@@ -82,6 +82,8 @@ The more interviews your get, the stronger your become as a candidate. Persisten
 - 统计（机器学习）
 - 金融
 
+注：数学在早些年衍生品刚刚流行的时候比较重要，但现在我觉得那些单纯做数学建模的宽客越来越少了，而现在越来越多的宽客需要写程序，所以我就把编程放在了第一位。
+
 [这里](https://careers.jpmorgan.com/careers/programs/qr-fulltime-associate)是一个典型的宽客职位描述。
 
 显然，一个人很难在以上四个方面都成为专家。求职者最好能在一个方面有所专长，而其他方面也能略知一二。
