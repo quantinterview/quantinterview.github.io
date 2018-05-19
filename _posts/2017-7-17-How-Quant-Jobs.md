@@ -9,7 +9,7 @@ In this post, I will share some resources and practical tips about how to get a 
 
 ![](/images/mathFinance.JPG)
 
-[图片来源](http://www.quantuniversity.com/)
+[Source](http://www.quantuniversity.com/)
 
 Generally, a quant needs to know:
 
@@ -34,7 +34,7 @@ Most firms in the quant space accept online applications, a great place to start
 
 ![](/images/investmentbank.GIF)
 
-[图片来源](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
+[Source](https://www.quora.com/If-investment-bankers-are-so-rich-then-why-doesnt-everybody-become-one)
 
 Apply early. Big investment banks typically have their own recruiting cycles, so don't miss their deadlines.
 
@@ -123,7 +123,7 @@ The more interviews your get, the stronger your become as a candidate. Persisten
 - [Glassdoor](https://www.glassdoor.com/index.htm)
 - 面试官的[LinkedIn](https://www.linkedin.com/)页面
 
-在我的博客中，我也会顶驱分享一些经常被问到的面试题。
+在我的博客中，我也会陆续分享一些经常被问到的面试题。
 
 面试过程通常包括好几轮电话面试和最终的造访公司面试。
 
