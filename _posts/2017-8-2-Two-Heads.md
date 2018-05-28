@@ -3,6 +3,10 @@ layout: post
 title: The Most Frequently Asked Question About Expectations
 ---
 
+![](https://www.wikihow.com/images/thumb/2/2f/Simulate-a-Fair-Coin-Toss-With-a-Biased-Coin-Step-1.jpg/aid329732-v4-728px-Simulate-a-Fair-Coin-Toss-With-a-Biased-Coin-Step-1.jpg)
+
+[Source](https://www.wikihow.com/Simulate-a-Fair-Coin-Toss-With-a-Biased-Coin)
+
 ## Problem
 
 Suppose we toss a fair coin, what is the expected number of tosses until we get two heads in a row?
